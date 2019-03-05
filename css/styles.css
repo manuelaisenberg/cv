@@ -1,0 +1,38 @@
+/**********************************TAG SELECTORS***************************/
+
+body {
+  background-color: #EAF6F6;
+  font: bold 15px/2 cursive;
+}
+
+h1 {
+  color: #1b335f;
+
+}
+
+h3 {
+  color: #41aaa8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 50%;
+  position: relative;
+  right:20px;
+  margin-left: 50px;
+}
+
+/**********************************CLASS SELECTORS***************************/
+
+.manuel {
+  border-radius: 50%;
+  margin-top: 30%;
+
+}
+
+.manuel:hover {
+  transform: scale(1.2);
+}
